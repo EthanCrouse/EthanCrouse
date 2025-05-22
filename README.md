@@ -1,4 +1,4 @@
-# Hi, I'm Ethan Crouse
+# Ethan Crouse
 
  Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics  
  Interests: Machine Learning, Data Visualization, Software Engineering  
