@@ -86,7 +86,7 @@ Analyzed U.S. Medicaid prescription drug data to identify spending trends across
 
 ---
 
-## 📫 Contact
+## Contact
 
 - LinkedIn: [linkedin.com/in/ethancrouse](https://www.linkedin.com/in/ethancrouse/)  
 - Email: edcrouse02@gmail.com
