@@ -52,7 +52,7 @@ Analyzed U.S. Medicaid prescription drug data to uncover trends in spending acro
 
 **Tools:** R, ggplot2, flexdashboard, dplyr, tidyr
 
-**Key Features:**
+**Key Features**
 - Cleaned multi-year Medicaid data
 - Modeled spending using MLR and Ridge Regression
 - Visualized patterns by drug type and manufacturer count
