@@ -29,13 +29,13 @@ Successfully trained neural network controllers on reduced models and deployed t
 
 ProseAI is an AI-powered email assistant that automatically drafts replies to unread emails using your writing style.
 
-#### ✨ Overview
+**Overview**
 
 This project connects to your email inbox (Gmail via IMAP), fetches unread emails, and generates context-aware replies that mimic your tone and writing style. It uses example text you've written to prompt a large language model (LLM) like Meta's Llama 3B for personalized responses.
 
 Ideal for professionals who want to streamline inbox management without losing their voice.
 
-#### 🔧 Key Features
+ **Key Features**
 
 - 📥 Securely connects to your Gmail inbox via IMAP
 - 📨 Fetches and parses unread messages
@@ -44,7 +44,7 @@ Ideal for professionals who want to streamline inbox management without losing t
 
 🔗 [View Repository](https://github.com/EthanCrouse/EmailResponder/tree/main)
 
-# Medicaid Drug Spending Analysis
+###  💊 Medicaid Drug Spending Analysis
 
 *November 2024*
 
