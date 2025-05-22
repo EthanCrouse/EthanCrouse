@@ -8,7 +8,7 @@
 
 ## 📂 Projects
 
-### Similarity Search Tool for U.S. Census Bureau's Working Papers  
+### 🏛️ Similarity Search Tool for U.S. Census Bureau's Working Papers  
 *Spring 2025*
 
 In collaboration with two other students, we designed and implemented a custom search tool for the U.S. Census Bureau to efficiently locate relevant working papers using natural language processing.
