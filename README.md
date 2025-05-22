@@ -44,6 +44,20 @@ Ideal for professionals who want to streamline inbox management without losing t
 
 🔗 [View Repository](https://github.com/EthanCrouse/EmailResponder/tree/main)
 
+# Medicaid Drug Spending Analysis
+
+Analyzed U.S. Medicaid prescription drug data to uncover trends in spending across therapeutic classes and manufacturer types. Built regression models (MLR & Ridge) and an interactive `flexdashboard` to visualize models.
+
+**Tools:** R, ggplot2, flexdashboard, dplyr, tidyr
+
+**Key Features:**
+- Cleaned multi-year Medicaid data
+- Modeled spending using MLR and Ridge Regression
+- Visualized patterns by drug type and manufacturer count
+
+🔗 [View Dashboard](https://ethancrouse.github.io/Medicaid_Anaysis/)
+
+
 
 
 
