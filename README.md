@@ -23,6 +23,28 @@ Successfully trained neural network controllers on reduced models and deployed t
 
 🔗 [View Repository](https://github.com/EthanCrouse/RFforStability/tree/main)
 
+### 📬 ProseAI 
+
+*January 2025 - Present*
+
+ProseAI is an AI-powered email assistant that automatically drafts replies to unread emails using your writing style.
+
+## ✨ Overview
+
+This project connects to your email inbox (Gmail via IMAP), fetches unread emails, and generates context-aware replies that mimic your tone and writing style. It uses example text you've written to prompt a large language model (LLM) like Meta's Llama 3B for personalized responses.
+
+Ideal for professionals who want to streamline inbox management without losing their voice.
+
+## 🔧 Key Features
+
+- 📥 Securely connects to your Gmail inbox via IMAP
+- 📨 Fetches and parses unread messages
+- 🧠 Uses a few short examples of your writing to generate replies
+- ✍️ Outputs personalized responses for review
+
+🔗 [View Repository](https://github.com/EthanCrouse/EmailResponder/tree/main)
+
+
 
 
 
