@@ -12,6 +12,16 @@ This project includes all core components of AES: key expansion, SubBytes, Shift
 
 [🔗 View Repository](https://github.com/EthanCrouse/AES)
 
+### 🔧 Solving Feedback Control of Dynamical Systems with Reinforcement Learning  
+*May 2025 – Research Project under Dr. Steffen Werner*
+
+Applied reinforcement learning to compute feedback control for stabilizing unstable linear systems.  
+Leveraged eigenspace reduction to isolate unstable modes, dramatically improving training efficiency.  
+Successfully trained neural network controllers on reduced models and deployed them on full systems—including a 4,489-state heat flow model.
+
+🔗 [View Project Repository](https://github.com/yourusername/dynamical-systems-rl)
+
+
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/ethancrouse/](https://www.linkedin.com/in/ethancrouse/)
