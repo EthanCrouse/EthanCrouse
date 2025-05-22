@@ -23,7 +23,7 @@ Successfully trained neural network controllers on reduced models and deployed t
 
 🔗 [View Repository](https://github.com/EthanCrouse/RFforStability/tree/main)
 
-### 📬 ProseAI 
+### 🤖 ProseAI 
 
 *January 2025 - Present*
 
