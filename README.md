@@ -1,14 +1,14 @@
-# 👋 Hi, I'm Ethan Crouse
+# Hi, I'm Ethan Crouse
 
-🎓 Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics  
-🧠 Interests: Machine Learning, Data Visualization, Software Engineering  
-🛠️ Tools: Python, R, C, Java, Git, Linux, MATLAB, LaTeX
+ Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics  
+ Interests: Machine Learning, Data Visualization, Software Engineering  
+ Tools: Python, R, C, Java, Git, Linux, MATLAB, LaTeX
 
 ---
 
-## 📂 Projects
+## Projects
 
-### 🏛️ Similarity Search Tool for U.S. Census Bureau's Working Papers  
+### Similarity Search Tool for U.S. Census Bureau's Working Papers  
 *Spring 2025*
 
 In collaboration with two other students, we designed and implemented a custom search tool for the U.S. Census Bureau to efficiently locate relevant working papers using natural language processing.
@@ -29,7 +29,7 @@ In collaboration with two other students, we designed and implemented a custom s
 
 ---
 
-### 🔐 AES Encryption from Scratch  
+### AES Encryption from Scratch  
 *Spring 2025*
 
 Implemented the Advanced Encryption Standard (AES) in Python without external libraries.  
@@ -39,7 +39,7 @@ Includes all core AES components: key expansion, SubBytes, ShiftRows, MixColumns
 
 ---
 
-### 🔧 Solving Feedback Control of Dynamical Systems with Reinforcement Learning  
+### Solving Feedback Control of Dynamical Systems with Reinforcement Learning  
 *Spring 2025 – Research Project under Dr. Steffen Werner*
 
 Applied reinforcement learning to compute feedback control for stabilizing unstable linear systems.  
@@ -50,7 +50,7 @@ Trained neural network controllers on reduced models and deployed on full system
 
 ---
 
-### 🤖 ProseAI  
+### ProseAI  
 *January 2025 – Present*
 
 An AI-powered email assistant that drafts replies to unread emails using your writing style.
@@ -70,7 +70,7 @@ An AI-powered email assistant that drafts replies to unread emails using your wr
 
 ---
 
-### 💊 Medicaid Drug Spending Analysis  
+### Medicaid Drug Spending Analysis  
 *November 2024*
 
 Analyzed U.S. Medicaid prescription drug data to identify spending trends across therapeutic classes and manufacturers. Built regression models and created an interactive dashboard.
