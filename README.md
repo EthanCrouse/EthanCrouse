@@ -20,7 +20,7 @@ Applied reinforcement learning to compute feedback control for stabilizing unsta
 Leveraged eigenspace reduction to isolate unstable modes, dramatically improving training efficiency.  
 Successfully trained neural network controllers on reduced models and deployed them on full systems—including a 4,489-state heat flow model.
 
-🔗 [View Project Repository](https://github.com/yourusername/dynamical-systems-rl)
+🔗 [View Repository](https://github.com/yourusername/dynamical-systems-rl)
 
 
 
