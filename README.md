@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Ethan Crouse
 
-<!--
-**EthanCrouse/EthanCrouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Master's Student @ Virginia Tech studying Computer Science, concentrated in Artificial Intelligence and Data Analytics  
+🧠 Interests: Machine Learning, Data Visualization, Software Engineering  
+🛠️ Tools: Python, R, C, Java, Git, Linux, MATLAB, LaTeX
 
-Here are some ideas to get you started:
+## 📂 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Schrödinger Equation Solver
+Solves the 1D time-independent Schrödinger equation using the shooting method.  
+[🔗 View Repository](https://github.com/yourusername/schrodinger-solver)
+
+### 📊 Medicaid Drug Spending Dashboard
+Interactive R `flexdashboard` with MLR and Ridge Regression on Medicaid spending.  
+[🔗 View Repository](https://github.com/yourusername/medicaid-dashboard)
+
+### 🚀 Fast k-Center Clustering 
+Parallelized farthest-first algorithm using OpenMP.  
+[🔗 View Repository](https://github.com/yourusername/kcenter-openmp)
+
+## 📫 Contact
+- LinkedIn: [https://www.linkedin.com/in/ethancrouse/](https://www.linkedin.com/in/ethancrouse/)
+- Email: edcrouse02@gmail.com
