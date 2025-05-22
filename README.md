@@ -6,17 +6,13 @@
 
 ## 📂 Projects
 
-### 🔬 Schrödinger Equation Solver
-Solves the 1D time-independent Schrödinger equation using the shooting method.  
-[🔗 View Repository](https://github.com/yourusername/schrodinger-solver)
+### 🔐 AES Encryption from Scratch  
+Implemented the Advanced Encryption Standard (AES) in C without relying on external libraries.  
+This project includes all core components of AES: key expansion, SubBytes, ShiftRows, MixColumns, and AddRoundKey operations, as well as encryption/decryption of 128-bit, 192-bit, and 256-bit blocks.  
+Focus was placed on understanding the algorithm at a low level and ensuring correctness through test vectors.
 
-### 📊 Medicaid Drug Spending Dashboard
-Interactive R `flexdashboard` with MLR and Ridge Regression on Medicaid spending.  
-[🔗 View Repository](https://github.com/yourusername/medicaid-dashboard)
+[🔗 View Repository](https://github.com/EthanCrouse/AES)
 
-### 🚀 Fast k-Center Clustering 
-Parallelized farthest-first algorithm using OpenMP.  
-[🔗 View Repository](https://github.com/yourusername/kcenter-openmp)
 
 ## 📫 Contact
 - LinkedIn: [https://www.linkedin.com/in/ethancrouse/](https://www.linkedin.com/in/ethancrouse/)
