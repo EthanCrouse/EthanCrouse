@@ -59,7 +59,6 @@ An AI-powered email assistant that drafts replies to unread emails using your wr
 - Connects securely to Gmail inbox via IMAP.  
 - Fetches unread emails and parses message content.  
 - Uses example texts to prompt an LLM (Meta’s Llama 3B) for personalized replies.  
-- Streamlines inbox management without losing your voice.
 
 **Key Features**  
 - Secure Gmail connection via IMAP  
