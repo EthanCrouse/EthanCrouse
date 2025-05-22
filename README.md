@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Ethan Crouse
+# Hi, I'm Ethan Crouse
 
-🎓 Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics  
-🧠 Interests: Machine Learning, Data Visualization, Software Engineering  
-🛠️ Tools: Python, R, C, Java, Git, Linux, MATLAB, LaTeX
+Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics  
+Interests: Machine Learning, Data Visualization, Software Engineering  
+Tools: Python, R, C, Java, Git, Linux, MATLAB, LaTeX
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### Similarity Search Tool for U.S. Census Bureau's Working Papers  
 *Spring 2025*
@@ -25,32 +25,32 @@ Designed and implemented a custom search tool to efficiently find relevant worki
 - Sentence-BERT (semantic embeddings)  
 - scikit-learn (cosine similarity)  
 
-🔗 [View Repository](#)
+ [View Repository](https://github.com/EthanCrouse/WorkingPaperTool)
 
 ---
 
-### 🔐 AES Encryption from Scratch  
+### AES Encryption from Scratch  
 *Spring 2025*
 
 Implemented the Advanced Encryption Standard (AES) in Python without external libraries.  
 Includes all core AES components: key expansion, SubBytes, ShiftRows, MixColumns, and AddRoundKey, supporting 128-bit, 192-bit, and 256-bit blocks.
 
-🔗 [View Repository](https://github.com/EthanCrouse/AES)
+ [View Repository](https://github.com/EthanCrouse/AES)
 
 ---
 
-### 🔧 Solving Feedback Control of Dynamical Systems with Reinforcement Learning  
+### Solving Feedback Control of Dynamical Systems with Reinforcement Learning  
 *Spring 2025 – Research Project under Dr. Steffen Werner*
 
 Applied reinforcement learning to compute feedback control for stabilizing unstable linear systems.  
 Leveraged eigenspace reduction to isolate unstable modes, improving training efficiency.  
 Trained neural network controllers on reduced models and deployed on full systems—including a 4,489-state heat flow model.
 
-🔗 [View Repository](https://github.com/EthanCrouse/RFforStability/tree/main)
+ [View Repository](https://github.com/EthanCrouse/RFforStability/tree/main)
 
 ---
 
-### 🤖 ProseAI  
+### ProseAI  
 *January 2025 – Present*
 
 An AI-powered email assistant that drafts replies to unread emails using your writing style.
@@ -62,16 +62,16 @@ An AI-powered email assistant that drafts replies to unread emails using your wr
 - Streamlines inbox management without losing your voice.
 
 **Key Features**  
-- 📥 Secure Gmail connection via IMAP  
-- 📨 Fetch and parse unread emails  
-- 🧠 Generates replies from user writing examples  
-- ✍️ Personalized draft responses for review  
+- Secure Gmail connection via IMAP  
+- Fetch and parse unread emails  
+- Generates replies from user writing examples  
+- Personalized draft responses for review  
 
-🔗 [View Repository](https://github.com/EthanCrouse/EmailResponder/tree/main)
+ [View Repository](https://github.com/EthanCrouse/EmailResponder/tree/main)
 
 ---
 
-### 💊 Medicaid Drug Spending Analysis  
+### Medicaid Drug Spending Analysis  
 *November 2024*
 
 Analyzed U.S. Medicaid prescription drug data to identify spending trends across therapeutic classes and manufacturers. Built regression models and created an interactive dashboard.
@@ -83,7 +83,7 @@ Analyzed U.S. Medicaid prescription drug data to identify spending trends across
 - Modeled spending with Multiple Linear Regression and Ridge Regression  
 - Visualized spending patterns by drug type and manufacturer count  
 
-🔗 [View Dashboard](https://ethancrouse.github.io/Medicaid_Anaysis/)
+ [View Dashboard](https://ethancrouse.github.io/Medicaid_Anaysis/)
 
 ---
 
