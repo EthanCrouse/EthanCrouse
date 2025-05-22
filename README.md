@@ -8,6 +8,7 @@
 
 ### 🔐 AES Encryption from Scratch  
 *Spring 2025*
+
 Implemented the Advanced Encryption Standard (AES) in Python without relying on external libraries.  
 This project includes all core components of AES: key expansion, SubBytes, ShiftRows, MixColumns, and AddRoundKey operations, as well as encryption/decryption of 128-bit, 192-bit, and 256-bit blocks.  
 
