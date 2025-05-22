@@ -46,6 +46,8 @@ Ideal for professionals who want to streamline inbox management without losing t
 
 # Medicaid Drug Spending Analysis
 
+*November 2024*
+
 Analyzed U.S. Medicaid prescription drug data to uncover trends in spending across therapeutic classes and manufacturer types. Built regression models (MLR & Ridge) and an interactive `flexdashboard` to visualize models.
 
 **Tools:** R, ggplot2, flexdashboard, dplyr, tidyr
