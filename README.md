@@ -7,13 +7,14 @@
 ## 📂 Projects
 
 ### 🔐 AES Encryption from Scratch  
+*Spring 2025*
 Implemented the Advanced Encryption Standard (AES) in Python without relying on external libraries.  
 This project includes all core components of AES: key expansion, SubBytes, ShiftRows, MixColumns, and AddRoundKey operations, as well as encryption/decryption of 128-bit, 192-bit, and 256-bit blocks.  
 
 [🔗 View Repository](https://github.com/EthanCrouse/AES)
 
 ### 🔧 Solving Feedback Control of Dynamical Systems with Reinforcement Learning  
-*May 2025 – Research Project under Dr. Steffen Werner*
+*Spring 2025 – Research Project under Dr. Steffen Werner*
 
 Applied reinforcement learning to compute feedback control for stabilizing unstable linear systems.  
 Leveraged eigenspace reduction to isolate unstable modes, dramatically improving training efficiency.  
