@@ -11,7 +11,7 @@
 ### Similarity Search Tool for U.S. Census Bureau's Working Papers  
 *Spring 2025*
 
-Designed and implemented a custom search tool to efficiently find relevant working papers using natural language processing.
+In collaboration with two other students, we designed and implemented a custom search tool for the U.S. Census Bureau to efficiently locate relevant working papers using natural language processing.
 
 **Overview**  
 - Developed a web scraper with **Selenium** to collect working paper metadata and documents from the Census Bureau website.  
