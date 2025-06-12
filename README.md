@@ -86,6 +86,25 @@ Analyzed U.S. Medicaid prescription drug data to identify spending trends across
 
 ---
 
+### Intro to Web Scraping with `requests` and `BeautifulSoup`  
+*Spring 2025 – Educational Demo for Undergraduate Students*
+
+Presented an introductory walkthrough on web scraping using Python to students at Virginia Tech. The live demo focused on extracting quotes and author names from the website [quotes.toscrape.com](https://quotes.toscrape.com), covering key scraping techniques and best practices.
+
+**Overview**  
+- Demonstrated HTTP requests using the `requests` library to retrieve web page content.  
+- Parsed HTML with `BeautifulSoup` to extract targeted elements like quotes and authors.  
+- Showed how to iterate across multiple paginated URLs.  
+- Highlighted HTML inspection for scraping logic and ethical scraping considerations.
+
+**Key Technologies**  
+- Python  
+- `requests`  
+- `beautifulsoup4`  
+
+📄 [Sample Code](https://github.com/hamflower/Request-BeautifulSoupDemo/blob/main/webscraping_demo.ipynb)
+
+
 ## Contact
 
 - LinkedIn: [linkedin.com/in/ethancrouse](https://www.linkedin.com/in/ethancrouse/)  
