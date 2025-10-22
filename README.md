@@ -1,8 +1,6 @@
 # Ethan Crouse
 
- Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics  
- Interests: Machine Learning, Data Visualization, Full Stack Software Engineering  
- Tools: Python, R, C, Java, Git, Linux, MATLAB, LaTeX, React, HTML, CSS
+ Master's Student @ Virginia Tech studying Computer Science with a concentration in Artificial Intelligence and Data Analytics   
 
 ---
 
